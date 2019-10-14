@@ -15,11 +15,11 @@
   "fontSize": "", 
   "fontStyle": "", 
   "fontWeight": "", 
-  "height": "auto", 
+  "height": 130, 
   "hidden": "", 
-  "id": "lblCheck", 
+  "id": "Label1", 
   "labelStyle": "text", 
-  "left": 46, 
+  "left": 219, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 318, 
+  "top": 295, 
   "value": "", 
-  "width": "auto"
+  "width": 77
 }

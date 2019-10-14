@@ -1,7 +1,6 @@
 /*
 var members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
-
 btnSubmit1.onclick=function(){
   var isMember= members.includes(inptFirstName.value)
   if (isMember==true){
@@ -14,5 +13,4 @@ btnSubmit1.onclick=function(){
 }
 */
 
-  
-  
+
